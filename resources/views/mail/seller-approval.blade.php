@@ -101,7 +101,7 @@
             <p>Dear <strong>{{ $seller->name }}</strong>,</p>
 
             <p>Congratulations! Your seller account <strong>{{ $seller->shop_name }}</strong> has been successfully
-                approved.</p>
+                approved by the administration.</p>
 
             <p>You can now start listing your products and managing your shop on our platform.</p>
 
